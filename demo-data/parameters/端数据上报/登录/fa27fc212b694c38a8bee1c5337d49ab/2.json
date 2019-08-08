@@ -1,0 +1,11 @@
+{
+    "key": "1",
+    "keyName": "教师端启动",
+    "value": "1",
+    "valueType": "int",
+    "reportTime": "启动时上报",
+    "reportTimeAndData": "1",
+    "isDirectory": false,
+    "id": "fa27fc212b694c38a8bee1c5337d49ab",
+    "createTime": "2019-08-08T04:12:06.705Z"
+}
