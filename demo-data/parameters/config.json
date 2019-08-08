@@ -1,0 +1,85 @@
+{
+  "id": "parameters",
+  "isDirectory": true,
+  "name": "我的参数",
+  "columns": [
+    {
+      "type": "text",
+      "required": true,
+
+      "title": "key",
+      "dataIndex": "key",
+      "key": "key",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": true,
+
+      "title": "key名",
+      "dataIndex": "keyName",
+      "key": "keyName",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": false,
+
+      "title": "值",
+      "dataIndex": "value",
+      "key": "value",
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": false,
+
+      "title": "值类型",
+      "dataIndex": "valueType",
+      "key": "valueType",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": false,
+
+      "title": "上报时机",
+      "dataIndex": "reportTime",
+      "key": "reportTime",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": false,
+
+      "title": "上报时间点和对应需上报的项",
+      "dataIndex": "reportTimeAndData",
+      "key": "reportTimeAndData",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    },
+    {
+      "type": "text",
+      "required": false,
+
+      "title": "说明",
+      "dataIndex": "note",
+      "key": "note",
+      "sorter": true,
+      "visible": true,
+      "editable": true
+    }
+
+
+  ]
+}
