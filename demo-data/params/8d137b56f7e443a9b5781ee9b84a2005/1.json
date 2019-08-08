@@ -1,0 +1,8 @@
+{
+    "name": "软件类型ID",
+    "paramId": "soft_id",
+    "description": "软件类型（由数据同学分配，区分每个业务线）",
+    "createTime": "2019-08-08T03:40:49.819Z",
+    "isDirectory": false,
+    "id": "8d137b56f7e443a9b5781ee9b84a2005"
+}
