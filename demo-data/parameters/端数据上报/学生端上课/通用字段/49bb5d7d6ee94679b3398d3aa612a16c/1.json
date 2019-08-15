@@ -1,0 +1,10 @@
+{
+    "keyId": "10",
+    "keyName": "LessonMode 上课模式",
+    "value": "1：授课模式；2：自主模式；",
+    "valueType": "int",
+    "reportTimeAndData": "1-10",
+    "isDirectory": false,
+    "id": "49bb5d7d6ee94679b3398d3aa612a16c",
+    "createTime": "2019-08-15T08:45:05.699Z"
+}
