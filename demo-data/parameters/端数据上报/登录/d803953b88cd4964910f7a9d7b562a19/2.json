@@ -1,0 +1,11 @@
+{
+    "keyId": "2",
+    "keyName": "教师端登出",
+    "value": "1",
+    "valueType": "int",
+    "reportTime": "账号登出时刻",
+    "reportTimeAndData": "2",
+    "isDirectory": false,
+    "id": "d803953b88cd4964910f7a9d7b562a19",
+    "createTime": "2019-08-15T08:30:56.820Z"
+}
