@@ -1,0 +1,11 @@
+{
+    "keyId": "3",
+    "keyName": "学生端登陆方式",
+    "value": "1：百度账号登陆；2：学号登陆；",
+    "valueType": "int",
+    "reportTime": "学生端登录成功时刻",
+    "reportTimeAndData": "3、4",
+    "isDirectory": false,
+    "id": "04da6d6e5c214d36bfa07c364958b8f1",
+    "createTime": "2019-08-15T08:33:20.721Z"
+}
