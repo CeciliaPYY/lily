@@ -1,0 +1,10 @@
+{
+    "keyId": "2",
+    "keyName": "planId 课程id",
+    "valueType": "string",
+    "reportTimeAndData": "1-10",
+    "note": "一个课程含有大于等于一个片段",
+    "isDirectory": false,
+    "id": "4122fb56525240d0993a7ea9ff9d16b9",
+    "createTime": "2019-08-15T08:39:16.633Z"
+}
