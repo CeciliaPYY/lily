@@ -1,0 +1,11 @@
+{
+    "keyId": "4",
+    "keyName": "是否首次登录",
+    "value": "1：首次登录；2：非首次登录；",
+    "valueType": "int",
+    "reportTime": "学生端登陆成功时刻",
+    "reportTimeAndData": "3、4",
+    "isDirectory": false,
+    "id": "c4170fa188cf466ebde9b3f54e9e536a",
+    "createTime": "2019-08-15T08:32:58.510Z"
+}
